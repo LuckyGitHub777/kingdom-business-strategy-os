@@ -2,11 +2,11 @@
 
 **A practical operating system for founders, owners, executives, and steward-leaders building real businesses with discipline, service, trust, and long-term value.**
 
-This repository converts business-simulation lessons and real-world operating principles into reusable doctrine, checklists, templates, examples, review loops, and an operating cadence.
+This repository converts real-world business principles into reusable doctrine, checklists, templates, examples, review loops, and an operating cadence.
 
 **Kingdom building** here means service, stewardship, trust, excellence, and responsible increase. The material is open to anyone who wants to build useful, ethical, disciplined, and durable organizations.
 
-Maintained as a public personal GitHub project. This repository is focused on practical doctrine for business strategy, decision quality, operating cadence, evidence-based forecasting, public-safe frontier readiness, and repeatable learning loops.
+Maintained as a public open-source GitHub project. This repository focuses on practical doctrine for business strategy, decision quality, operating cadence, evidence-based forecasting, public-safe frontier readiness, and repeatable learning loops.
 
 > A strong business is not built by luck, noise, or one clever idea. It is built by serving a specific customer, creating real value, protecting cash, preserving margin, forecasting from evidence, improving operations, earning trust, and learning every cycle.
 
