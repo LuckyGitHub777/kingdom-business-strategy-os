@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Kingdom Business Strategy OS
+message: If you use this repository, please cite it using this metadata.
+type: dataset
+authors:
+  - name: LuckyGitHub777
+version: 0.2.3
+date-released: 2026-06-25
+license: MIT
+repository-code: https://github.com/LuckyGitHub777/kingdom-business-strategy-os
+url: https://github.com/LuckyGitHub777/kingdom-business-strategy-os
+abstract: A public-safe documentation and template corpus for service-driven business strategy, executive operating cadence, decision quality, forecasting, operational excellence, frontier-readiness planning, mission/stewardship alignment, and learning loops.
