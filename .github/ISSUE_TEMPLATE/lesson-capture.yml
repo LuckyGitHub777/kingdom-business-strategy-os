@@ -1,0 +1,48 @@
+name: Lesson Capture
+description: Capture a business lesson from a decision, result, mistake, launch, sale, or review.
+title: "Lesson: "
+labels: [lesson, learning-loop]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+      description: What did we expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: What happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: What data, behavior, result, or observation supports this lesson?
+  - type: textarea
+    id: lesson
+    attributes:
+      label: Lesson learned
+      description: What principle should we remember?
+    validations:
+      required: true
+  - type: textarea
+    id: system_update
+    attributes:
+      label: System update
+      description: What template, checklist, SOP, dashboard, policy, or training should change?
+  - type: textarea
+    id: owner
+    attributes:
+      label: Owner and review date
+      description: Who owns the update, and when should it be checked?
