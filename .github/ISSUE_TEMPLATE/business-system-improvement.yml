@@ -1,0 +1,52 @@
+name: Business System Improvement
+description: Propose a repeatable improvement to the business operating system.
+title: "Improvement: "
+labels: [operations, improvement]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Canonical domain
+      description: Choose the domain from docs/06-canonical-taxonomy.md.
+      options:
+        - Service / Customer
+        - Stewardship / Resources
+        - Cash
+        - Margin / Economics
+        - Timing
+        - Forecasting
+        - Inventory / Capacity
+        - Operations / Quality
+        - Trust / Governance
+        - Learning Loop
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What system weakness are we improving?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed improvement
+      description: What should change?
+    validations:
+      required: true
+  - type: textarea
+    id: mission_alignment
+    attributes:
+      label: Mission and stewardship alignment
+      description: How does this improvement support useful service, responsible stewardship, trust, or long-term value?
+  - type: textarea
+    id: metric
+    attributes:
+      label: Measurement
+      description: How will we know it worked?
+  - type: textarea
+    id: owner
+    attributes:
+      label: Owner and review date
+      description: Who owns the change, and when should it be reviewed?
